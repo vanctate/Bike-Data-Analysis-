@@ -11,7 +11,7 @@
 *  Description of the program
 *******************************************************
 
-This program uses the file bikeData.csv to make simple calculations about data
+This program uses the file BikeData.csv to make simple calculations about data
 collected on 121 people who cycle. This program answered the questions, how many
 of the total cyclists are male? Of the males, what is the average time spent
 rinding in minutes? How many cyclists are daily riders? How many daily riders are
@@ -28,7 +28,7 @@ Name: bikeAnalysis.R
        Loads the dataset bikeData and creates subsets to answer the
             questions above.
 
-Name: bikeData.csv
+Name: BikeData.csv
         Contains data on 121 surveyed cyclists.
 
 
